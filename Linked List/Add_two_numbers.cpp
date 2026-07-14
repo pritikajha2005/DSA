@@ -35,6 +35,7 @@ void printList(Node* head){
         }
         temp=temp->next;
     }
+    cout<<endl;
 }
 
 Node* addTwoNumbers(Node* L1, Node* L2){
